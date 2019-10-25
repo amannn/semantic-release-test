@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.8](https://github.com/amannn/semantic-release-test/compare/v1.1.7...v1.1.8) (2019-10-25)
+
+
+### Bug Fixes
+
+* Can we omit the GITHUB_TOKEN? ([d3b6186](https://github.com/amannn/semantic-release-test/commit/d3b618650e239ac640b3eb007853071ab056efbe))
+* Put GITHUB_TOKEN back ([cef8bdd](https://github.com/amannn/semantic-release-test/commit/cef8bdd6eb1cb4802730468b642e18552d0726f1))
+
 ## [1.1.7](https://github.com/amannn/semantic-release-test/compare/v1.1.6...v1.1.7) (2019-10-25)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/amannn/semantic-release-test/compare/v1.1.6...v1.1.7) (2019-10-25)
+
+
+### Bug Fixes
+
+* Remove invalid changelog entry. ([009d003](https://github.com/amannn/semantic-release-test/commit/009d003435153621e922186d79f2f27b0c789178))
+
 ## [1.1.6](https://github.com/amannn/semantic-release-test/compare/v1.1.5...v1.1.6) (2019-10-25)
 
 

@@ -7,8 +7,6 @@
 
 * Make the changelog title an h1 ([1077876](https://github.com/amannn/semantic-release-test/commit/10778763002068152fd926e3b9d324546db17f7d))
 
-Changelog
-
 ## [1.1.5](https://github.com/amannn/semantic-release-test/compare/v1.1.4...v1.1.5) (2019-10-25)
 
 

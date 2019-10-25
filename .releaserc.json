@@ -6,7 +6,6 @@
       "npmPublish": false
     }],
     ["@semantic-release/git", {
-      "assets": ["package.json", "CHANGELOG.md"],
       "message": "Release ${nextRelease.version}"
     }]
   ]

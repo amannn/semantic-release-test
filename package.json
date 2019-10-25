@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:amannn/semantic-release-test.git",
   "author": "Jan Amann <jan@amann.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "15.13.27"
+  }
 }

@@ -1,5 +1,12 @@
 # Changelog
 
+# [3.0.0](https://github.com/amannn/semantic-release-test/compare/v2.0.0...v3.0.0) (2019-11-04)
+
+
+### Bug Fixes
+
+* Another attempt at conventional commit. ([4665203](https://github.com/amannn/semantic-release-test/commit/4665203e304bc4453f2ddbfbbdd8fc18a2f373da))
+
 # [2.0.0](https://github.com/amannn/semantic-release-test/compare/v1.1.11...v2.0.0) (2019-11-04)
 
 ## [1.1.11](https://github.com/amannn/semantic-release-test/compare/v1.1.10...v1.1.11) (2019-11-04)

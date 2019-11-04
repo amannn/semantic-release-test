@@ -1,5 +1,7 @@
 # Changelog
 
+# [2.0.0](https://github.com/amannn/semantic-release-test/compare/v1.1.11...v2.0.0) (2019-11-04)
+
 ## [1.1.11](https://github.com/amannn/semantic-release-test/compare/v1.1.10...v1.1.11) (2019-11-04)
 
 ## [1.1.10](https://github.com/amannn/semantic-release-test/compare/v1.1.9...v1.1.10) (2019-11-04)

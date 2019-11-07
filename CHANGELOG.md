@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.1](https://github.com/amannn/semantic-release-test/compare/v6.0.0...v6.0.1) (2019-11-07)
+
+
+### Bug Fixes
+
+* Test fix ([cd24cfa](https://github.com/amannn/semantic-release-test/commit/cd24cfabec93f5a15a9cb8c8125a9c01a5d4161d))
+
 # [6.0.0](https://github.com/amannn/semantic-release-test/compare/v5.0.0...v6.0.0) (2019-11-07)
 
 # [5.0.0](https://github.com/amannn/semantic-release-test/compare/v4.0.0...v5.0.0) (2019-11-07)

@@ -1,5 +1,7 @@
 # Changelog
 
+# [6.0.0](https://github.com/amannn/semantic-release-test/compare/v5.0.0...v6.0.0) (2019-11-07)
+
 # [5.0.0](https://github.com/amannn/semantic-release-test/compare/v4.0.0...v5.0.0) (2019-11-07)
 
 # [4.0.0](https://github.com/amannn/semantic-release-test/compare/v3.0.0...v4.0.0) (2019-11-07)

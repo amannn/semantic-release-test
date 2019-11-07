@@ -1,5 +1,13 @@
 # Changelog
 
+# [4.0.0](https://github.com/amannn/semantic-release-test/compare/v3.0.0...v4.0.0) (2019-11-07)
+
+
+### Bug Fixes
+
+* Update package lock. ([76529bc](https://github.com/amannn/semantic-release-test/commit/76529bc2c14f007bbc8972320f776ca2750c0c06))
+* Use conventional commits preset. ([d38dcbd](https://github.com/amannn/semantic-release-test/commit/d38dcbd31ed409b3dbec2d500560a7cd388ef7fb))
+
 # [3.0.0](https://github.com/amannn/semantic-release-test/compare/v2.0.0...v3.0.0) (2019-11-04)
 
 

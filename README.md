@@ -1,2 +1,1 @@
 # semantic-release-test
-

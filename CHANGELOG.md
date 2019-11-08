@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.1.0](https://github.com/amannn/semantic-release-test/compare/v9.0.0...v9.1.0) (2019-11-08)
+
+
+### Features
+
+* Add PR workflow ([#1](https://github.com/amannn/semantic-release-test/issues/1)) ([fa4c2a3](https://github.com/amannn/semantic-release-test/commit/fa4c2a3cb6d00111f4b6f4aeda896c86e57155c3))
+
 ## [9.0.0](https://github.com/amannn/semantic-release-test/compare/v8.0.0...v9.0.0) (2019-11-08)
 
 

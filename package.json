@@ -1,16 +1,17 @@
 {
   "name": "semantic-release-test",
-  "version": "1.1.8",
+  "version": "9.0.0",
   "main": "index.js",
   "repository": "git@github.com:amannn/semantic-release-test.git",
   "author": "Jan Amann <jan@amann.me>",
   "license": "MIT",
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.4",
-    "@semantic-release/commit-analyzer": "6.3.0",
-    "@semantic-release/git": "7.0.16",
-    "@semantic-release/npm": "5.2.0",
-    "@semantic-release/release-notes-generator": "7.3.0",
-    "semantic-release": "15.13.27"
+    "@semantic-release/commit-analyzer": "6.3.3",
+    "@semantic-release/git": "^7.0.18",
+    "@semantic-release/npm": "^5.3.4",
+    "@semantic-release/release-notes-generator": "^7.3.2",
+    "conventional-changelog-conventionalcommits": "4.2.1",
+    "semantic-release": "^15.13.30"
   }
 }

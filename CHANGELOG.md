@@ -1,5 +1,16 @@
 # Changelog
 
+## [9.0.0](https://github.com/amannn/semantic-release-test/compare/v8.0.0...v9.0.0) (2019-11-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* This note should be displayed instead of the commit title.
+
+### Bug Fixes
+
+* Some breaking fix with notes. ([cfbffd1](https://github.com/amannn/semantic-release-test/commit/cfbffd191ecfff7b226e81e1d218191d163759a4))
+
 ## [8.0.0](https://github.com/amannn/semantic-release-test/compare/v7.0.0...v8.0.0) (2019-11-08)
 
 

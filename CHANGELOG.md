@@ -1,5 +1,16 @@
 # Changelog
 
+### [9.1.3](https://github.com/amannn/semantic-release-test/compare/v9.1.2...v9.1.3) (2019-11-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Regenerate package lock.
+
+### Bug Fixes
+
+* Regenerate package lock. ([22c2af5](https://github.com/amannn/semantic-release-test/commit/22c2af587b14c8e07adf62c70b1be655d0944b4e))
+
 ### [9.1.2](https://github.com/amannn/semantic-release-test/compare/v9.1.1...v9.1.2) (2019-11-08)
 
 

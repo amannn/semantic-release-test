@@ -1,5 +1,16 @@
 # Changelog
 
+### [9.1.2](https://github.com/amannn/semantic-release-test/compare/v9.1.1...v9.1.2) (2019-11-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Test message for breaking change.
+
+### Bug Fixes
+
+* Test breaking notes ([#2](https://github.com/amannn/semantic-release-test/issues/2)) ([9bba4e6](https://github.com/amannn/semantic-release-test/commit/9bba4e61ae51e1d251b3f1c8257a37d2a7714405))
+
 ### [9.1.1](https://github.com/amannn/semantic-release-test/compare/v9.1.0...v9.1.1) (2019-11-08)
 
 

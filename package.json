@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "9.1.4",
+  "version": "9.1.5",
   "main": "index.js",
   "repository": "git@github.com:amannn/semantic-release-test.git",
   "author": "Jan Amann <jan@amann.me>",

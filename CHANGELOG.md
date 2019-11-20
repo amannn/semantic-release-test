@@ -1,5 +1,12 @@
 # Changelog
 
+### [9.1.5](https://github.com/amannn/semantic-release-test/compare/v9.1.4...v9.1.5) (2019-11-20)
+
+
+### Bug Fixes
+
+* Use default release rules ([#4](https://github.com/amannn/semantic-release-test/issues/4)) ([d226b3b](https://github.com/amannn/semantic-release-test/commit/d226b3bf40b8e5d506ed0074f484c385420c8454))
+
 ### [9.1.4](https://github.com/amannn/semantic-release-test/compare/v9.1.3...v9.1.4) (2019-11-20)
 
 

@@ -1,10 +1,12 @@
 name: 'Pull request'
 on:
-  - push # Running on push is necessary as otherwise previously failed checks are omitted
-  - pull_request:
-      types:
-        - opened
-        - edited
+  # Running on push is necessary as a commit resets
+  # all checks and so they need to run again.
+  push: true
+  pull_request:
+    types:
+      - opened
+      - edited
 
 jobs:
   main:

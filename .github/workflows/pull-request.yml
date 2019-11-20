@@ -1,6 +1,7 @@
 name: 'Pull request'
 on:
-  pull_request:
+  - push # Running on push is necessary as otherwise previously failed checks are omitted
+  - pull_request:
     types:
       - opened
       - edited

@@ -1,5 +1,12 @@
 # Changelog
 
+### [9.1.4](https://github.com/amannn/semantic-release-test/compare/v9.1.3...v9.1.4) (2019-11-20)
+
+
+### Bug Fixes
+
+* Use WIP workflow ([#3](https://github.com/amannn/semantic-release-test/issues/3)) ([c8dc6fc](https://github.com/amannn/semantic-release-test/commit/c8dc6fc82741ff947aaa4ef065ce0884540d214e))
+
 ### [9.1.3](https://github.com/amannn/semantic-release-test/compare/v9.1.2...v9.1.3) (2019-11-08)
 
 

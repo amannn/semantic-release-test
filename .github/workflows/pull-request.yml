@@ -10,6 +10,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: wip/action@v1.0.0
-      - uses: amannn/action-semantic-pull-request@v1.1.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

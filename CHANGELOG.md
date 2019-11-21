@@ -1,5 +1,16 @@
 # Changelog
 
+## [10.0.0](https://github.com/amannn/semantic-release-test/compare/v9.1.5...v10.0.0) (2019-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* Some refactoring that contains a breaking change.
+
+### Code Refactoring
+
+* Some refactoring that contains a breaking change. ([d1fe8a1](https://github.com/amannn/semantic-release-test/commit/d1fe8a1ee9d67fcc91970c98845f7f8280082a67))
+
 ### [9.1.5](https://github.com/amannn/semantic-release-test/compare/v9.1.4...v9.1.5) (2019-11-20)
 
 

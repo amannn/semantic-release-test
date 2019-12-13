@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.1.0](https://github.com/amannn/semantic-release-test/compare/v10.0.0...v10.1.0) (2019-12-13)
+
+
+### Features
+
+* Add github plugin. ([#8](https://github.com/amannn/semantic-release-test/issues/8)) ([79854e1](https://github.com/amannn/semantic-release-test/commit/79854e12ed8150ccbfe934f110d85c6d1dc7f0ed))
+
 ## [10.0.0](https://github.com/amannn/semantic-release-test/compare/v9.1.5...v10.0.0) (2019-11-21)
 
 

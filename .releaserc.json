@@ -1,7 +1,12 @@
 {
   "preset": "conventionalcommits",
   "plugins": [
-    "@semantic-release/commit-analyzer",
+    ["@semantic-release/commit-analyzer", {
+      "releaseRules": [
+        {"release": "minor", "type": "feat"},
+        {"release": "patch", "type": "fix"}
+      ]
+    }],
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", {"changelogTitle": "# Changelog"}],
     ["@semantic-release/npm", {"npmPublish": false}],

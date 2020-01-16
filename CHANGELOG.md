@@ -1,5 +1,16 @@
 # Changelog
 
+## [10.2.0](https://github.com/amannn/semantic-release-test/compare/v10.1.0...v10.2.0) (2020-01-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Manually add release rules
+
+### Features
+
+* Manually add release rules ([decfbb9](https://github.com/amannn/semantic-release-test/commit/decfbb9213bb1a523b666f47ee1a6135860cd854))
+
 ## [10.1.0](https://github.com/amannn/semantic-release-test/compare/v10.0.0...v10.1.0) (2019-12-13)
 
 

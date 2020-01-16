@@ -1,5 +1,16 @@
 # Changelog
 
+## [11.0.0](https://github.com/amannn/semantic-release-test/compare/v10.2.0...v11.0.0) (2020-01-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add breaking change config
+
+### Features
+
+* Add breaking change config ([2155794](https://github.com/amannn/semantic-release-test/commit/2155794f8711b0e83df4162172062429c40b9e04))
+
 ## [10.2.0](https://github.com/amannn/semantic-release-test/compare/v10.1.0...v10.2.0) (2020-01-16)
 
 

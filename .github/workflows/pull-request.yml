@@ -13,5 +13,3 @@ jobs:
       - uses: amannn/action-semantic-pull-request@feat/72-make-wip-opt-in
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-            wip: true
